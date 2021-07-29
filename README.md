@@ -3,6 +3,7 @@ This script is very useful for any PSUT student in the registration time, you ca
 
 ## How to use it?
 It's simple, just provide the list of numbers separated by a comma inside the `courses.txt` file like this [20141,20231,22592,52592] and run the script, the results will be in the output file.
+Check this video out for more: https://youtu.be/fX1-mbhE2cM
 
 ## Requierments
 You must have python 3 with `selenium` installed and the webdriver according to your browser:

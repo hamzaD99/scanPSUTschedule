@@ -18,7 +18,7 @@ def nameScreenshot(num):
         os.remove("./Output/"+num+".png")
     return "./Output/"+num+".png"
 def welcoming():
-    print("Welcome!\nPut the courses numbers that you want to check in file named 'courses.txt' at the same folder sperated by a comma.\nExample: 20141,20231,22592\nPress any key when the file is ready and LET THE MAGIC HAPPEN :)")
+    print("Welcome!\nPut the courses numbers that you want to check in file named 'courses.txt' at the same folder sperated by a comma.\nExample: 20141,20231,22592\nPress Enter when the file is ready and LET THE MAGIC HAPPEN :)")
     input()
     if(not os.path.isfile("./courses.txt")):
         print("I can't find 'courses.txt', try again!")
