@@ -6,7 +6,7 @@ It's simple, just provide the list of numbers separated by a comma inside the `c
 
 ## Requierments
 You must have python 3 with `selenium` installed and the webdriver according to your browser:
-    - *Firefox:* https://github.com/mozilla/geckodriver/releases/
-    - *Google chrome:* https://chromedriver.chromium.org/
+- *Firefox:* https://github.com/mozilla/geckodriver/releases/
+- *Google chrome:* https://chromedriver.chromium.org/
 
 Enjoy and have a nice semester :)
